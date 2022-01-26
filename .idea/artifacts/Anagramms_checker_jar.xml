@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Anagramms_checker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Anagramms_checker_jar</output-path>
+    <root id="archive" name="Anagramms_checker.jar">
+      <element id="module-output" name="Anagramms_checker" />
+    </root>
+  </artifact>
+</component>
